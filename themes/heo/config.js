@@ -17,10 +17,10 @@ const CONFIG = {
   // 英雄区(首页顶部大卡)
   HEO_HERO_TITLE_1: '分享编程',
   HEO_HERO_TITLE_2: '与思维认知',
-  HEO_HERO_TITLE_3: 'TANGLY1024.COM',
-  HEO_HERO_TITLE_4: '新版上线',
-  HEO_HERO_TITLE_5: 'NotionNext4.0 轻松定制主题',
-  HEO_HERO_TITLE_LINK: 'https://tangly1024.com',
+  HEO_HERO_TITLE_3: 'showyoubug.cn',
+  HEO_HERO_TITLE_4: 'Humble Swag',
+  HEO_HERO_TITLE_5: '复行数十步，豁然开朗',
+  HEO_HERO_TITLE_LINK: '#',
 
   // 英雄区显示三个置顶分类
 
